@@ -1,0 +1,25 @@
+{
+  "name": "req-flash-example",
+  "version": "1.0.0",
+  "description": "Basic Express 4.0 Setup with connect-flash",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.0.0",
+    "express-session": "^1.0.2",
+    "cookie-parser": "^1.0.1",
+    "connect-flash": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C0pyR1ght/req-flash-example.git"
+  },
+  "author": "Luca Feiser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C0pyR1ght/req-flash-example/issues"
+  },
+  "homepage": "https://github.com/C0pyR1ght/req-flash-example#readme"
+}
